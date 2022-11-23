@@ -8,7 +8,7 @@ Academic project for delivery
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=1572B6)
-- ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=1572B6)
+- ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
 
 <br>
 
